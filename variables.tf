@@ -1,7 +1,3 @@
-variable "region" {
-  default = ""
-}
+variable "region" {}
 
-variable "s3-bucket" {
-  default = ""
-}
+variable "s3-bucket" {}
